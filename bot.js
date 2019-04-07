@@ -12,4 +12,4 @@ client.user.setGame(`Thx u Dina `,"http://twitch.tv/Dream")
 client.user.setStatus("dnd")
 });
 
-client .login(process.env.BOT_TOKEN);// لا تغير فيها شيء
+client.login(process.env.B0T_TOKEN);// لا تغير فيها شيء
